@@ -1,0 +1,6 @@
+The Rogue: Swift as the wind
+Health Points = 150
+Damage = 60
+Potions = 1
+
+Passive ability: If luck is on your side, Seize the opportunity to Strike your enemy twice.

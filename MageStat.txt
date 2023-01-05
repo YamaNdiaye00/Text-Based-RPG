@@ -1,0 +1,6 @@
+The Mage: Smite your enemies with your Fire magic
+Health Points = 125
+Damage = 75
+Potions = 2
+
+Passive ability: Your fireball might set your enemy on fire. They will take damage every round.

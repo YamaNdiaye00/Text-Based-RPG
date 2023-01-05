@@ -1,0 +1,6 @@
+The Warrior: Trample your enemies with your might
+Health Points = 175
+Damage = 40
+Potions = 3
+
+Passive ability: When your health is below 0, you may come back to life once more with reduced HP and continue the fight.
